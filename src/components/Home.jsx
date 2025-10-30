@@ -11,7 +11,7 @@ function Home() {
         <div className="home-info">
           <h1>Hassan Mohammed</h1>
           <h2>
-            I'm a
+            I'm a&nbsp;
             <span style={{ '--i': 4 }} data-text="Full Stack Developer">Full Stack Developer</span>
             <span style={{ '--i': 3 }} data-text="AI & Python Enthusiast">AI & Python Enthusiast</span>
             <span style={{ '--i': 2 }} data-text="Student">Student</span>
