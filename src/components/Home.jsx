@@ -23,7 +23,7 @@ function Home() {
             web interfaces and managing code effectively.
           </p>
           <div className="btn-sci">
-            <a href="#" className="btn">Download CV</a>
+            <a href="https://drive.google.com/uc?export=download&id=1_QLDKkWU5Xq0OIYAxL6uPd9Mk1fcyiuj" className="btn">Download CV</a>
             <div className="sci">
               <a href="https://github.com/Hassan-codes312" target="_blank" rel="noopener noreferrer">
                 <i className='bx bxl-github'></i>
